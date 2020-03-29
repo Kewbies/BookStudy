@@ -32,7 +32,7 @@
 - **행동은 상태를 변화**시킨다.
   - Side Effect를 발생시킬 수 있다.
 - **행동의 결과는 상태에 의존적**이다.
-- 외부의 **요청(Request) 또는 수신된 메시지(Recieved Message)**에 **응답(Response)**하기 위해 **동작하고 반응**하는 활동이다.
+- 외부의 **요청(Request) 또는 수신된 메시지(Recieved Message)** 에 **응답(Response)** 하기 위해 **동작하고 반응**하는 활동이다.
 
 ### 캡슐화(Encapsulation)
 
