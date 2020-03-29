@@ -20,7 +20,7 @@
 
 ### 협력(Collaboration)
 
-- 협력은 **요청(Request)**와 **응답(Response)**으로 구성된다.
+- 협력은 **요청(Request)** 와 **응답(Response)** 으로 구성된다.
 - 요청(Request)은 연쇄적으로 발생한다.
   - 요청(Request)에 대한 응답(Response) 역시 역방향으로 연쇄적으로 전달된다.
 
