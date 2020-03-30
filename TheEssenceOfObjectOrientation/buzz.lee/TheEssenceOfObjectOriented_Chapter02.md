@@ -42,16 +42,6 @@
   - 메시지에 대한 처리는 수신자(Reciever)의 자율적인 판단에 따른다.
   - 캡슐화를 통하여 자율성을 높인다.
 
-```swift
-struct Ellice {
-  
-	func drink(beverage: Beverage) {
-    
-    self.height -= 10
-   	beverage.drunken(quantity)
-  }
-}
-```
 
 ## 식별자
 
