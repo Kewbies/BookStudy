@@ -34,11 +34,11 @@ struct King: Justice {
     // Request에 대한 방식, 자료 등은 witness의 판단에 따라 선택
     // 자율적인 책임
     witness.testify(scene: crimeScene)
-	}
+  }
 
   ❌
   func judgeDetaily(witness: Witness) {
-		// 과도하게 상세한 요청
+    // 과도하게 상세한 요청
     // 요청에 'How'가 포함되어져 있다.
     // wintess의 자율적인 책임이 제한되어진다.
     // 타율적인 책임
@@ -97,7 +97,7 @@ witness.testify(scene: crimeScene)
 // `testify` is Message
 // `someMethod()` is Method
 func testify(scene: Scene) {
-	someMethod()
+  someMethod()
 }
 ```
 
